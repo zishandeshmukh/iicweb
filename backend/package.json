@@ -1,0 +1,11 @@
+{
+  "name": "iic",
+  "version": "1.0.0",
+  "description": "iicweb",
+  "main": "server.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "zishan deshmukh",
+  "license": "ISC"
+}
